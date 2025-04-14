@@ -1,0 +1,57 @@
+# AWS Bedrock Overview
+
+AWS Bedrock is a fully managed service that offers a choice of high-performing foundation models (FMs) from leading AI companies including AI21 Labs, Anthropic, Cohere, Meta, Mistral AI, Stability AI, and Amazon through a single API.
+
+## Key Features
+
+1. **Choice of Foundation Models**: Access to a wide range of foundation models from leading AI companies through a unified API.
+
+2. **Customization Options**: Customize foundation models with your proprietary data using techniques like fine-tuning and Retrieval Augmented Generation (RAG).
+
+3. **Enterprise-grade Security and Privacy**: AWS Bedrock is built with security and privacy in mind, offering features like private endpoints, encryption, and access controls.
+
+4. **Seamless Integration**: Easily integrate generative AI capabilities into your applications without having to manage the underlying infrastructure.
+
+## Available Models
+
+AWS Bedrock supports various models for different use cases:
+
+### Text Generation Models
+- Amazon Titan Text
+- Anthropic Claude (including Claude 3 Sonnet, Haiku, and Opus)
+- AI21 Labs Jurassic-2
+- Cohere Command
+- Meta Llama 2
+- Mistral AI models
+
+### Image Generation Models
+- Amazon Titan Image Generator
+- Stability AI Stable Diffusion
+
+### Embedding Models
+- Amazon Titan Embeddings
+- Cohere Embed
+
+## Common Use Cases
+
+1. **Content Generation**: Create blog posts, product descriptions, marketing copy, and other text-based content.
+
+2. **Summarization**: Extract key information from long documents or conversations.
+
+3. **Question Answering**: Build conversational agents that can answer user queries.
+
+4. **Text Classification**: Categorize and analyze text data for insights.
+
+5. **Image Generation**: Create custom images based on text prompts.
+
+6. **Knowledge Base Creation**: Build searchable knowledge bases from corporate documents.
+
+## Getting Started
+
+To use AWS Bedrock, you need to:
+
+1. Request access to the models you want to use through the AWS Management Console.
+2. Set up AWS credentials and permissions.
+3. Use the AWS SDK or API to interact with the models.
+
+For more information, visit the [AWS Bedrock documentation](https://docs.aws.amazon.com/bedrock). 
